@@ -3,7 +3,7 @@
 ### bambergerw22@students.ecu.edu, geibs24@students.ecu.edu
 
 ## Dependencies: 
-### Sklearn, numpy, pandas
+### Sklearn, numpy, matplotlib
 
 ## To Run:
 ### Open HW6.ipynb in jupyter and run all cell's
